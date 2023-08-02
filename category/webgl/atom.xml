@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://wkss18.github.io/hexowy.github.io</id>
+    <title>个人技术博客 • Posts by &#34;webgl&#34; category</title>
+    <link href="https://wkss18.github.io/hexowy.github.io" />
+    <updated>2023-08-02T09:21:17.000Z</updated>
+    <entry>
+        <id>https://wkss18.github.io/hexowy.github.io/2023/08/02/webgl/</id>
+        <title>webgl</title>
+        <link rel="alternate" href="https://wkss18.github.io/hexowy.github.io/2023/08/02/webgl/"/>
+        <content type="html">&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;webgl测试&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+</content>
+        <updated>2023-08-02T09:21:17.000Z</updated>
+    </entry>
+</feed>

@@ -1,0 +1,48 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "个人技术博客",
+    "description": "",
+    "home_page_url": "https://wkss18.github.io/hexowy.github.io",
+    "items": [
+        {
+            "id": "https://wkss18.github.io/hexowy.github.io/2023/08/02/webgl/",
+            "url": "https://wkss18.github.io/hexowy.github.io/2023/08/02/webgl/",
+            "title": "webgl",
+            "date_published": "2023-08-02T09:21:17.000Z",
+            "content_html": "<figure class=\"highlight plaintext\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">webgl测试</span><br></pre></td></tr></table></figure>\n",
+            "tags": []
+        },
+        {
+            "id": "https://wkss18.github.io/hexowy.github.io/2023/08/02/hexo%E7%AB%99%E5%86%85%E6%90%9C%E7%B4%A2%E9%85%8D%E7%BD%AE/",
+            "url": "https://wkss18.github.io/hexowy.github.io/2023/08/02/hexo%E7%AB%99%E5%86%85%E6%90%9C%E7%B4%A2%E9%85%8D%E7%BD%AE/",
+            "title": "hexo 搜索",
+            "date_published": "2023-08-02T09:05:04.345Z",
+            "content_html": "<figure class=\"highlight plaintext\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br><span class=\"line\">2</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">hexo 配置搜索流程111</span><br><span class=\"line\"></span><br></pre></td></tr></table></figure>",
+            "tags": []
+        },
+        {
+            "id": "https://wkss18.github.io/hexowy.github.io/2023/08/02/algolia%E9%85%8D%E7%BD%AE/",
+            "url": "https://wkss18.github.io/hexowy.github.io/2023/08/02/algolia%E9%85%8D%E7%BD%AE/",
+            "title": "algolia配置站内搜索",
+            "date_published": "2023-08-02T08:39:19.145Z",
+            "content_html": "<figure class=\"highlight plaintext\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">站内搜索配置</span><br></pre></td></tr></table></figure>",
+            "tags": []
+        },
+        {
+            "id": "https://wkss18.github.io/hexowy.github.io/2023/08/02/hello-world/",
+            "url": "https://wkss18.github.io/hexowy.github.io/2023/08/02/hello-world/",
+            "title": "Hello World",
+            "date_published": "2023-08-02T08:39:19.145Z",
+            "content_html": "<p>Welcome to <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvLw==\">Hexo</span>! This is your very first post. Check <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv\">documentation</span> for more info. If you get any problems when using Hexo, you can find the answer in <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=\">troubleshooting</span> or you can ask me on <span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==\">GitHub</span>.</p>\n<h2 id=\"quick-start\"><a class=\"markdownIt-Anchor\" href=\"#quick-start\">#</a> Quick Start</h2>\n<h3 id=\"create-a-new-post\"><a class=\"markdownIt-Anchor\" href=\"#create-a-new-post\">#</a> Create a new post</h3>\n<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo new <span class=\"string\">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>\n<p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s\">Writing</span></p>\n<h3 id=\"run-server\"><a class=\"markdownIt-Anchor\" href=\"#run-server\">#</a> Run server</h3>\n<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo server</span><br></pre></td></tr></table></figure>\n<p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=\">Server</span></p>\n<h3 id=\"generate-static-files\"><a class=\"markdownIt-Anchor\" href=\"#generate-static-files\">#</a> Generate static files</h3>\n<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo generate</span><br></pre></td></tr></table></figure>\n<p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s\">Generating</span></p>\n<h3 id=\"deploy-to-remote-sites\"><a class=\"markdownIt-Anchor\" href=\"#deploy-to-remote-sites\">#</a> Deploy to remote sites</h3>\n<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo deploy</span><br></pre></td></tr></table></figure>\n<p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s\">Deployment</span></p>\n",
+            "tags": []
+        },
+        {
+            "id": "https://wkss18.github.io/hexowy.github.io/2023/08/02/nginx%E9%85%8D%E7%BD%AE/",
+            "url": "https://wkss18.github.io/hexowy.github.io/2023/08/02/nginx%E9%85%8D%E7%BD%AE/",
+            "title": "Nginx配置",
+            "date_published": "2023-08-02T08:39:19.145Z",
+            "content_html": "<figure class=\"highlight plaintext\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">echo 123</span><br></pre></td></tr></table></figure>",
+            "tags": []
+        }
+    ]
+}
